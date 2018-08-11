@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 吾乃行天之道，总司一切的男人——天道总司
 
 You can use the [editor on GitHub](https://github.com/ToyoMisaka/Misaka/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
